@@ -1,0 +1,9 @@
+{
+	"name": "terrozadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22d37382-bab1-460c-9720-c51d1962205d",
+		"tenantId": "136e95c5-41a2-4479-9e03-d9e3c5acafff"
+	}
+}
